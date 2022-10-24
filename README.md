@@ -8,4 +8,6 @@ tugas_binar_1
   
 2. OUTPUT DATA SQL.zip (Hasil input file csv kagle ke dalam sqlite lalu eksport sql)
 
-3.
+3. analisa_data_twitter_abussive_v1.ipynb
+
+4. 
